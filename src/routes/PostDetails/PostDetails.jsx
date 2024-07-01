@@ -1,6 +1,6 @@
 import { useLoaderData, Link } from 'react-router-dom';
 
-import Modal from '../components/Modal';
+import Modal from '../../components/Modal/Modal';
 import classes from './PostDetails.module.css';
 
 export default function PostDetails() {

@@ -1,4 +1,4 @@
-import PostList from '../components/PostList';
+import PostList from '../../components/PostList/PostList';
 import { Outlet } from 'react-router-dom';
 
 export default function Posts() {
